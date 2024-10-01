@@ -2,7 +2,7 @@ name: Learning GitHub Actions
 run-name: Learning github actions !!
 on: [push]
 jobs:
-  build:
+  hola-mundo:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
